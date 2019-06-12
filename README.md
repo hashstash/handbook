@@ -1,4 +1,4 @@
-# Our Handbook
+# Welcome
 
 At Hashstash, we’re working to build an inclusive and diverse company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is the default in our industry. It takes active effort to find the hidden biases in our companies and remove them.
 
@@ -84,3 +84,4 @@ We hope that many more people will suggest ways for us to improve these policies
 * [Julie Horvath](https://twitter.com/nrrrdcore)
 * [Ikka Riley](https://twitter.com/isicalynn)
 * [Erica Baker](https://twitter.com/ericajoy)
+=======
